@@ -1,0 +1,23 @@
+{
+  "name": "qc-importer",
+  "version": "0.0.1",
+  "description": "REST API and Importer for QC comic",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wyoumans/qc-importer.git"
+  },
+  "author": "wyoumans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyoumans/qc-importer/issues"
+  },
+  "homepage": "https://github.com/wyoumans/qc-importer",
+  "dependencies": {
+    "async": "^0.9.0",
+    "confrodo": "0.0.6",
+    "lodash": "^3.2.0",
+    "winston": "^0.9.0"
+  }
+}

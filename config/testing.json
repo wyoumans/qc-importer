@@ -1,0 +1,4 @@
+{
+  "env": "testing",
+  "mongoConnectionString": "mongodb://localhost/qc_testing"
+}

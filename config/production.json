@@ -1,0 +1,4 @@
+{
+  "env": "production",
+  "mongoConnectionString": "mongodb://localhost/qc_production"
+}
